@@ -1,1 +1,15 @@
 # CommunicationLab
+mkdir CommunicationLab
+cd CommunicationLab
+
+dotnet new sln -n CommunicationLab
+
+dotnet new console -n MessageServer
+dotnet new console -n OrderService
+dotnet new console -n NotificationService
+dotnet new console -n LoggingService
+
+dotnet sln add MessageServer
+dotnet sln add OrderService
+dotnet sln add NotificationService
+dotnet sln add LoggingService
