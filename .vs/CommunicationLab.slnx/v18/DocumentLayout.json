@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\01_Active\\dotnet_p\\CommunicationLab\\CommunicationLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83E1B0-E070-9F99-FF67-C1B90F446AE7}|LoggingService\\LoggingService.csproj|e:\\01_active\\dotnet_p\\communicationlab\\communicationlab\\loggingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83E1B0-E070-9F99-FF67-C1B90F446AE7}|LoggingService\\LoggingService.csproj|solutionrelative:loggingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9FD0F0-B9C2-54C6-189B-77AA3D46F4C2}|NotificationService\\NotificationService.csproj|e:\\01_active\\dotnet_p\\communicationlab\\communicationlab\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9FD0F0-B9C2-54C6-189B-77AA3D46F4C2}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|e:\\01_active\\dotnet_p\\communicationlab\\communicationlab\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCF2F7B-5A52-44B4-A542-F5EBFEFCBB2F}|MessageServer\\MessageServer.csproj|e:\\01_active\\dotnet_p\\communicationlab\\communicationlab\\messageserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCF2F7B-5A52-44B4-A542-F5EBFEFCBB2F}|MessageServer\\MessageServer.csproj|solutionrelative:messageserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCF2F7B-5A52-44B4-A542-F5EBFEFCBB2F}|MessageServer\\MessageServer.csproj|e:\\01_active\\dotnet_p\\communicationlab\\communicationlab\\messageserver\\messageserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDCF2F7B-5A52-44B4-A542-F5EBFEFCBB2F}|MessageServer\\MessageServer.csproj|solutionrelative:messageserver\\messageserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\01_Active\\dotnet_p\\CommunicationLab\\CommunicationLab\\LoggingService\\Program.cs",
+              "RelativeDocumentMoniker": "LoggingService\\Program.cs",
+              "ToolTip": "E:\\01_Active\\dotnet_p\\CommunicationLab\\CommunicationLab\\LoggingService\\Program.cs",
+              "RelativeToolTip": "LoggingService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T01:22:28.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\01_Active\\dotnet_p\\CommunicationLab\\CommunicationLab\\NotificationService\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Program.cs",
+              "ToolTip": "E:\\01_Active\\dotnet_p\\CommunicationLab\\CommunicationLab\\NotificationService\\Program.cs",
+              "RelativeToolTip": "NotificationService\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T01:22:19.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\01_Active\\dotnet_p\\CommunicationLab\\CommunicationLab\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "E:\\01_Active\\dotnet_p\\CommunicationLab\\CommunicationLab\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T01:22:06.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\01_Active\\dotnet_p\\CommunicationLab\\CommunicationLab\\MessageServer\\Program.cs",
+              "RelativeDocumentMoniker": "MessageServer\\Program.cs",
+              "ToolTip": "E:\\01_Active\\dotnet_p\\CommunicationLab\\CommunicationLab\\MessageServer\\Program.cs",
+              "RelativeToolTip": "MessageServer\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T01:21:44.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageServer",
+              "DocumentMoniker": "E:\\01_Active\\dotnet_p\\CommunicationLab\\CommunicationLab\\MessageServer\\MessageServer.csproj",
+              "RelativeDocumentMoniker": "MessageServer\\MessageServer.csproj",
+              "ToolTip": "E:\\01_Active\\dotnet_p\\CommunicationLab\\CommunicationLab\\MessageServer\\MessageServer.csproj",
+              "RelativeToolTip": "MessageServer\\MessageServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-20T01:21:29.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

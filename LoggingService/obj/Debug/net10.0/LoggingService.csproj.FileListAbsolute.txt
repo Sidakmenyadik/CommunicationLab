@@ -1,0 +1,14 @@
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\LoggingService\bin\Debug\net10.0\LoggingService.exe
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\LoggingService\bin\Debug\net10.0\LoggingService.deps.json
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\LoggingService\bin\Debug\net10.0\LoggingService.runtimeconfig.json
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\LoggingService\bin\Debug\net10.0\LoggingService.dll
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\LoggingService\bin\Debug\net10.0\LoggingService.pdb
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\LoggingService\obj\Debug\net10.0\LoggingService.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\LoggingService\obj\Debug\net10.0\LoggingService.AssemblyInfoInputs.cache
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\LoggingService\obj\Debug\net10.0\LoggingService.AssemblyInfo.cs
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\LoggingService\obj\Debug\net10.0\LoggingService.csproj.CoreCompileInputs.cache
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\LoggingService\obj\Debug\net10.0\LoggingService.dll
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\LoggingService\obj\Debug\net10.0\refint\LoggingService.dll
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\LoggingService\obj\Debug\net10.0\LoggingService.pdb
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\LoggingService\obj\Debug\net10.0\LoggingService.genruntimeconfig.cache
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\LoggingService\obj\Debug\net10.0\ref\LoggingService.dll

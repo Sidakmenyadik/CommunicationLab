@@ -1,0 +1,14 @@
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\OrderService\bin\Debug\net10.0\OrderService.exe
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\OrderService\bin\Debug\net10.0\OrderService.deps.json
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\OrderService\bin\Debug\net10.0\OrderService.runtimeconfig.json
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\OrderService\bin\Debug\net10.0\OrderService.dll
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\OrderService\bin\Debug\net10.0\OrderService.pdb
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\OrderService\obj\Debug\net10.0\OrderService.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\OrderService\obj\Debug\net10.0\OrderService.AssemblyInfoInputs.cache
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\OrderService\obj\Debug\net10.0\OrderService.AssemblyInfo.cs
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\OrderService\obj\Debug\net10.0\OrderService.csproj.CoreCompileInputs.cache
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\OrderService\obj\Debug\net10.0\OrderService.dll
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\OrderService\obj\Debug\net10.0\refint\OrderService.dll
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\OrderService\obj\Debug\net10.0\OrderService.pdb
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\OrderService\obj\Debug\net10.0\OrderService.genruntimeconfig.cache
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\OrderService\obj\Debug\net10.0\ref\OrderService.dll

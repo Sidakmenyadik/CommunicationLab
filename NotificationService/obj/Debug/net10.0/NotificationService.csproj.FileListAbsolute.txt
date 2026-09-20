@@ -1,0 +1,14 @@
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\NotificationService\bin\Debug\net10.0\NotificationService.exe
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\NotificationService\bin\Debug\net10.0\NotificationService.deps.json
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\NotificationService\bin\Debug\net10.0\NotificationService.runtimeconfig.json
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\NotificationService\bin\Debug\net10.0\NotificationService.dll
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\NotificationService\bin\Debug\net10.0\NotificationService.pdb
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\NotificationService\obj\Debug\net10.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\NotificationService\obj\Debug\net10.0\NotificationService.AssemblyInfoInputs.cache
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\NotificationService\obj\Debug\net10.0\NotificationService.AssemblyInfo.cs
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\NotificationService\obj\Debug\net10.0\NotificationService.csproj.CoreCompileInputs.cache
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\NotificationService\obj\Debug\net10.0\NotificationService.dll
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\NotificationService\obj\Debug\net10.0\refint\NotificationService.dll
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\NotificationService\obj\Debug\net10.0\NotificationService.pdb
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\NotificationService\obj\Debug\net10.0\NotificationService.genruntimeconfig.cache
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\NotificationService\obj\Debug\net10.0\ref\NotificationService.dll

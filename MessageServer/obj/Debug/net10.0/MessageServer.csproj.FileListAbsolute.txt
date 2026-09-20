@@ -1,0 +1,14 @@
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\MessageServer\bin\Debug\net10.0\MessageServer.exe
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\MessageServer\bin\Debug\net10.0\MessageServer.deps.json
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\MessageServer\bin\Debug\net10.0\MessageServer.runtimeconfig.json
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\MessageServer\bin\Debug\net10.0\MessageServer.dll
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\MessageServer\bin\Debug\net10.0\MessageServer.pdb
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\MessageServer\obj\Debug\net10.0\MessageServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\MessageServer\obj\Debug\net10.0\MessageServer.AssemblyInfoInputs.cache
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\MessageServer\obj\Debug\net10.0\MessageServer.AssemblyInfo.cs
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\MessageServer\obj\Debug\net10.0\MessageServer.csproj.CoreCompileInputs.cache
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\MessageServer\obj\Debug\net10.0\MessageServer.dll
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\MessageServer\obj\Debug\net10.0\refint\MessageServer.dll
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\MessageServer\obj\Debug\net10.0\MessageServer.pdb
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\MessageServer\obj\Debug\net10.0\MessageServer.genruntimeconfig.cache
+E:\01_Active\dotnet_p\CommunicationLab\CommunicationLab\MessageServer\obj\Debug\net10.0\ref\MessageServer.dll
